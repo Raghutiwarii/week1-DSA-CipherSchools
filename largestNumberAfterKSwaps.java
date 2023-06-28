@@ -1,6 +1,6 @@
 
 import java.io.*;
-class largestNumberAfterKSteps
+class largestNumberAfterKSwaps
 {
 	static StringBuilder findMaximumNum(StringBuilder str,
 											int n, int k)
